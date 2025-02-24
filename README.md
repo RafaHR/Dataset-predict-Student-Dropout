@@ -1,5 +1,4 @@
 # Dataset-predict-Student-Dropout
-Trabalho para a matéria de Reconhecimento de Padrões do 8° Semestre do Curso de Engenharia da Computação na FACENS
 
 O projeto consiste no desenvolvimento de modelos preditivos de classificação para buscar encontrar padrões e conseguir predizer se um determinado aluno irá se graduar, trancar a matéria da faculdade ou abandonar o curso.
 
